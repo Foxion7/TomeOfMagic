@@ -1,0 +1,201 @@
+{
+  "talents": [
+    {
+      "name": "Insight",
+      "type": "Skill",
+      "description": "description",
+      "proficiency": false,
+      "halfProficiency": false
+    },
+    {
+      "name": "Animal Handling",
+      "type": "Skill",
+      "description": "description",
+      "proficiency": false,
+      "halfProficiency": false
+    },
+    {
+      "name": "Survival",
+      "type": "Skill",
+      "description": "description",
+      "proficiency": false,
+      "halfProficiency": false
+    },
+    {
+      "name": "One type of artisan's tools",
+      "type": "Tool",
+      "description": "description",
+      "proficiency": false,
+      "halfProficiency": false
+    },
+    {
+      "name": "Vehicles (land)",
+      "type": "Tool",
+      "description": "description",
+      "proficiency": false,
+      "halfProficiency": false
+    },
+    {
+      "name": "Deception",
+      "type": "Skill",
+      "description": "description",
+      "proficiency": false,
+      "halfProficiency": false
+    },
+    {
+      "name": "Stealth",
+      "type": "Skill",
+      "description": "description",
+      "proficiency": false,
+      "halfProficiency": false
+    },
+    {
+      "name": "One type of gaming set",
+      "type": "Tool",
+      "description": "description",
+      "proficiency": false,
+      "halfProficiency": false
+    },
+    {
+      "name": "Thieves' tools",
+      "type": "Tool",
+      "description": "description",
+      "proficiency": false,
+      "halfProficiency": false
+    },
+    {
+      "name": "Sleight of Hand",
+      "type": "Skill",
+      "description": "description",
+      "proficiency": false,
+      "halfProficiency": false
+    },
+    {
+      "name": "Disguise kit",
+      "type": "Tool",
+      "description": "description",
+      "proficiency": false,
+      "halfProficiency": false
+    },
+    {
+      "name": "Forgery kit",
+      "type": "Tool",
+      "description": "description",
+      "proficiency": false,
+      "halfProficiency": false
+    },
+    {
+      "name": "Religion",
+      "type": "Skill",
+      "description": "description",
+      "proficiency": false,
+      "halfProficiency": false
+    },
+    {
+      "name": "One of your choice",
+      "type": "Language",
+      "description": "description",
+      "proficiency": false,
+      "halfProficiency": false
+    },
+    {
+      "name": "One type of gaming set",
+      "type": "Tool",
+      "description": "description",
+      "proficiency": false,
+      "halfProficiency": false
+    },
+    {
+      "name": "Persuasion",
+      "type": "Skill",
+      "description": "description",
+      "proficiency": false,
+      "halfProficiency": false
+    },
+    {
+      "name": "Medicine",
+      "type": "Skill",
+      "description": "description",
+      "proficiency": false,
+      "halfProficiency": false
+    },
+    {
+      "name": "Herbalism kit",
+      "type": "Tool",
+      "description": "description",
+      "proficiency": false,
+      "halfProficiency": false
+    },
+    {
+      "name": "History",
+      "type": "Skill",
+      "description": "description",
+      "proficiency": false,
+      "halfProficiency": false
+    },
+    {
+      "name": "Athletics",
+      "type": "Skill",
+      "description": "description",
+      "proficiency": false,
+      "halfProficiency": false
+    },
+    {
+      "name": "Survival",
+      "type": "Skill",
+      "description": "description",
+      "proficiency": false,
+      "halfProficiency": false
+    },
+    {
+      "name": "Arcana",
+      "type": "Skill",
+      "description": "description",
+      "proficiency": false,
+      "halfProficiency": false
+    },
+    {
+      "name": "History",
+      "type": "Skill",
+      "description": "description",
+      "proficiency": false,
+      "halfProficiency": false
+    },
+    {
+      "name": "Perception",
+      "type": "Skill",
+      "description": "description",
+      "proficiency": false,
+      "halfProficiency": false
+    },
+    {
+      "name": "Navigator's tools",
+      "type": "Tool",
+      "description": "description",
+      "proficiency": false,
+      "halfProficiency": false
+    },
+    {
+      "name": "Vehicles (water)",
+      "type": "Tool",
+      "description": "description",
+      "proficiency": false,
+      "halfProficiency": false
+    },
+    {
+      "name": "Intimidation",
+      "type": "Skill",
+      "description": "description",
+      "proficiency": false,
+      "halfProficiency": false
+    },
+    {
+      "name": "Stealth",
+      "type": "Skill",
+      "description": "description",
+      "proficiency": false,
+      "halfProficiency": false
+    }
+  ]
+}
+

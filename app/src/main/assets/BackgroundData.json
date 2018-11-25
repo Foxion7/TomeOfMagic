@@ -1,0 +1,56 @@
+{
+  "backgrounds": [
+    {
+    "name": "Acolyte",
+    "description": "Backgroundescription",
+    "talents": []
+  }, {
+    "name": "Charlatan",
+    "description": "Backgroundescription",
+    "talents": []
+  }, {
+    "name": "Criminal",
+    "description": "Backgroundescription",
+    "talents": []
+  }, {
+    "name": "Entertainer",
+    "description": "Backgroundescription",
+    "talents": []
+  },{
+    "name": "Folk Hero",
+    "description": "Backgroundescription",
+    "talents": []
+  }, {
+    "name": "Guild Artisan",
+    "description": "Backgroundescription",
+    "talents": []
+  }, {
+    "name": "Hermit",
+    "description": "Backgroundescription",
+    "talents": []
+  }, {
+    "name": "Noble",
+    "description": "Backgroundescription",
+    "talents": []
+  }, {
+    "name": "Outlander",
+    "description": "Backgroundescription",
+    "talents": []
+  }, {
+    "name": "Sage",
+    "description": "Backgroundescription",
+    "talents": []
+  }, {
+    "name": "Sailor",
+    "description": "Backgroundescription",
+    "talents": []
+  }, {
+    "name": "Soldier",
+    "description": "Backgroundescription",
+    "talents": []
+  },{
+    "name": "Urchin",
+    "description": "Backgroundescription",
+    "talents": []
+  }]
+}

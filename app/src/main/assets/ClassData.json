@@ -1,0 +1,65 @@
+{
+  "classes": [
+    {
+      "name": "Barbarian",
+      "description": "description",
+      "traits": [
+        {
+          "name": "Hit Dice",
+          "description": "1d12"
+        }
+      ],
+      "proficiencies":[
+        {
+          "name": "Light armor"
+        },
+        {
+          "name": "Medium armor"
+        },
+        {
+          "name": "Shields"
+        },
+        {
+          "name": "Simple Weapons"
+        },
+        {
+          "name": "Martial Weapons"
+        },
+        {
+          "name": "Strength Saving Throw"
+        },
+        {
+          "name": "Constitution Saving Throw"
+        },
+        {
+          "name": "Animal Handling"
+        },
+        {
+          "name": "Athletics"
+        },
+        {
+          "name": "Intimidation"
+        },
+        {
+          "name": "Nature"
+        },
+        {
+          "name": "Perception"
+        },
+        {
+          "name": "Survival"
+        }
+      ],
+      "Equipment":[
+        { "name": "Greataxe"},
+        { "name": "Martial melee weapon"},
+        { "name": "Handaxe(2x)"},
+        { "name": "Simple weapon"},
+        { "name": "Explorer\'s pack"},
+        { "name": "Javelin(4x)"}
+      ],
+      "subclasses":[
+      ]
+    }
+  ]
+}

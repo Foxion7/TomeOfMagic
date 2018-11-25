@@ -1,0 +1,1820 @@
+{
+  "races":[
+    {
+      "name":"Dragonborn",
+      "lore":"Racedescription",
+      "subraces": [{
+        "name":"Black",
+        "lore":"Racedescription",
+        "traits": [
+          {
+            "title":"Breath Weapon (Acid)",
+            "description":"You can use your action to exhale destructive energy. It deals damage in a 5 by 30 ft. line. When you use your breath weapon, all creatures in the area must make a Dexterity saving throw. The DC of this saving throw is 8 + your Dexterity modifier + your proficiency bonus. A creature takes 2d6 acid damage on a failed save, and half as much damage on a successful one. The damage increase to 3d6 at 6th level, 4d6 at 11th, and 5d6 at 16th level. After using your breath weapon, you cannot use it again until you complete a short or long rest."
+          },
+          {
+            "title":"Damage Resistance",
+            "description":"You have resistance to acid damage."
+          }]
+      },{
+        "name":"Blue",
+        "lore":"Racedescription",
+        "traits": [
+          {
+            "title":"Breath Weapon (Lightning)",
+            "description":"You can use your action to exhale destructive energy. It deals damage in a 5 by 30 ft. line. When you use your breath weapon, all creatures in the area must make a Dexterity saving throw. The DC of this saving throw is 8 + your Dexterity modifier + your proficiency bonus. A creature takes 2d6 lightning damage on a failed save, and half as much damage on a successful one. The damage increase to 3d6 at 6th level, 4d6 at 11th, and 5d6 at 16th level. After using your breath weapon, you cannot use it again until you complete a short or long rest."
+          },
+          {
+            "title":"Damage Resistance",
+            "description":"You have resistance to lightning damage."
+          }]
+      },{
+        "name":"Brass",
+        "lore":"Racedescription",
+        "traits": [
+          {
+            "title":"Breath Weapon (Fire)",
+            "description":"You can use your action to exhale destructive energy. It deals damage in a 5 by 30 ft. line. When you use your breath weapon, all creatures in the area must make a Dexterity saving throw. The DC of this saving throw is 8 + your Dexterity modifier + your proficiency bonus. A creature takes 2d6 fire damage on a failed save, and half as much damage on a successful one. The damage increase to 3d6 at 6th level, 4d6 at 11th, and 5d6 at 16th level. After using your breath weapon, you cannot use it again until you complete a short or long rest."
+          },
+          {
+            "title":"Damage Resistance",
+            "description":"You have resistance to fire damage."
+          }]
+      },{
+        "name":"Bronze",
+        "lore":"Racedescription",
+        "traits": [
+          {
+            "title":"Breath Weapon (Lightning)",
+            "description":"You can use your action to exhale destructive energy. It deals damage in a 5 by 30 ft. line. When you use your breath weapon, all creatures in the area must make a Dexterity saving throw. The DC of this saving throw is 8 + your Dexterity modifier + your proficiency bonus. A creature takes 2d6 lightning damage on a failed save, and half as much damage on a successful one. The damage increase to 3d6 at 6th level, 4d6 at 11th, and 5d6 at 16th level. After using your breath weapon, you cannot use it again until you complete a short or long rest."
+          },
+          {
+            "title":"Damage Resistance",
+            "description":"You have resistance to lightning damage."
+          }]
+      },{
+        "name":"Copper",
+        "lore":"Racedescription",
+        "traits": [
+          {
+            "title":"Breath Weapon (Acid)",
+            "description":"You can use your action to exhale destructive energy. It deals damage in a 5 by 30 ft. line. When you use your breath weapon, all creatures in the area must make a Dexterity saving throw. The DC of this saving throw is 8 + your Dexterity modifier + your proficiency bonus. A creature takes 2d6 acid damage on a failed save, and half as much damage on a successful one. The damage increase to 3d6 at 6th level, 4d6 at 11th, and 5d6 at 16th level. After using your breath weapon, you cannot use it again until you complete a short or long rest."
+          },
+          {
+            "title":"Damage Resistance",
+            "description":"You have resistance to acid damage."
+          }]
+      },{
+        "name":"Gold",
+        "lore":"Racedescription",
+        "traits": [
+          {
+            "title":"Breath Weapon (Fire)",
+            "description":"You can use your action to exhale destructive energy. It deals damage in 15 ft. cone. When you use your breath weapon, all creatures in the area must make a Dexterity saving throw. The DC of this saving throw is 8 + your Dexterity modifier + your proficiency bonus. A creature takes 2d6 fire damage on a failed save, and half as much damage on a successful one. The damage increase to 3d6 at 6th level, 4d6 at 11th, and 5d6 at 16th level. After using your breath weapon, you cannot use it again until you complete a short or long rest."
+          },
+          {
+            "title":"Damage Resistance",
+            "description":"You have resistance to fire damage."
+          }]
+      },{
+        "name":"Green",
+        "lore":"Racedescription",
+        "traits": [
+          {
+            "title":"Breath Weapon (Poison)",
+            "description":"You can use your action to exhale destructive energy. It deals damage in a 15 ft. cone. When you use your breath weapon, all creatures in the area must make a Constitution saving throw. The DC of this saving throw is 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d6 poison damage on a failed save, and half as much damage on a successful one. The damage increase to 3d6 at 6th level, 4d6 at 11th, and 5d6 at 16th level. After using your breath weapon, you cannot use it again until you complete a short or long rest."
+          },
+          {
+            "title":"Damage Resistance",
+            "description":"You have resistance to poison damage."
+          }]
+      },{
+        "name":"Red",
+        "lore":"Racedescription",
+        "traits": [
+          {
+            "title":"Breath Weapon (Fire)",
+            "description":"You can use your action to exhale destructive energy. It deals damage in a 5 by 30 ft. line. When you use your breath weapon, all creatures in the area must make a Dexterity saving throw. The DC of this saving throw is 8 + your Dexterity modifier + your proficiency bonus. A creature takes 2d6 fire damage on a failed save, and half as much damage on a successful one. The damage increase to 3d6 at 6th level, 4d6 at 11th, and 5d6 at 16th level. After using your breath weapon, you cannot use it again until you complete a short or long rest."
+          },
+          {
+            "title":"Damage Resistance",
+            "description":"You have resistance to fire damage."
+          }]
+      },{
+        "name":"Silver",
+        "lore":"Racedescription",
+        "traits": [
+          {
+            "title":"Breath Weapon (Cold)",
+            "description":"You can use your action to exhale destructive energy. It deals damage in a 15 ft. cone. When you use your breath weapon, all creatures in the area must make a Constitution saving throw. The DC of this saving throw is 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d6 cold damage on a failed save, and half as much damage on a successful one. The damage increase to 3d6 at 6th level, 4d6 at 11th, and 5d6 at 16th level. After using your breath weapon, you cannot use it again until you complete a short or long rest."
+          },
+          {
+            "title":"Damage Resistance",
+            "description":"You have resistance to cold damage."
+          }]
+      },{
+        "name":"White",
+        "lore":"Racedescription",
+        "traits": [
+          {
+            "title":"Breath Weapon (Cold)",
+            "description":"You can use your action to exhale destructive energy. It deals damage in a 15 ft. cone. When you use your breath weapon, all creatures in the area must make a Constitution saving throw. The DC of this saving throw is 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d6 cold damage on a failed save, and half as much damage on a successful one. The damage increase to 3d6 at 6th level, 4d6 at 11th, and 5d6 at 16th level. After using your breath weapon, you cannot use it again until you complete a short or long rest."
+          },
+          {
+            "title":"Damage Resistance",
+            "description":"You have resistance to cold damage."
+          }]
+      }],
+      "traits":[
+        {
+          "title":"Ability Score Increase",
+          "description":"Your Strength score increase by 2, and your Charisma score increases by 1."
+        },
+        {
+          "title":"Age",
+          "description":"Young dragonborn grow quickly. They walk hours after hatching, attain the size and development of a 10-year-old human child by the age of 3, and reach adulthood by 15. They live to be around 80."
+        },
+        {
+          "title":"Alignment",
+          "description":"Dragonborn tend towards extremes, making a conscious choice for one side or the other between Good and Evil (represented by Bahamut and Tiamat, respectively). More side with Bahamut than Tiamat (whose non-dragon followers are mostly kobolds), but villainous dragonborn can be quite terrible indeed. Some rare few choose to devote themselves to lesser dragon deities, such as Chronepsis (Neutral), and fewer still choose to worship Io, the Ninefold Dragon, who is all alignments at once."
+        },
+        {
+          "title":"Size",
+          "description":"Dragonborn are taller and heavier than humans, standing well over 6 feet tall and averaging almost 250 pounds. Your size is Medium."
+        },
+        {
+          "title":"Speed",
+          "description":"Your base walking speed is 30 feet."
+        },
+        {
+          "title":"Draconic Ancestry",
+          "description":"You are distantly related to a particular kind of dragon. Choose a type of dragon from the list; this determines the damage and area of your breath weapon, and the type of resistance you gain."
+        },
+        {
+          "title":"Languages",
+          "description":"You can read, speak, and write Common and Draconic."
+        }
+      ]
+    },
+    {
+      "name":"Dwarf",
+      "lore":"Racedescription",
+      "subraces":[
+        {
+          "name":"Hill Dwarf",
+          "lore":"Racedescription",
+          "traits":[
+            {
+              "title":"Ability Score Increase",
+              "description":"Your Wisdom score increases by 1."
+            },
+            {
+              "title":"Dwarven Toughness",
+              "description":"Your hit point maximum increases by 1, and it increases by 1 every time you gain a level."
+            }
+          ]
+        },
+        {
+          "name":"Mountain Dwarf",
+          "lore":"Racedescription",
+          "traits":[
+            {
+              "title":"Ability Score Increase",
+              "description":"Your Strength score increases by 2."
+            },
+            {
+              "title":"Dwarven Armor Training",
+              "description":"You have proficiency with light and medium armor."
+            }
+          ]
+        },
+        {
+          "name":"Duergar",
+          "lore":"Racedescription",
+          "traits":[
+            {
+              "title":"Ability Score Increase",
+              "description":"Your Strength score increases by 1."
+            },
+            {
+              "title":"Superior Darkvision",
+              "description":"Your darkvision has a radius of 120 feet."
+            },
+            {
+              "title":"Extra Language",
+              "description":"You can speak, read, and write Undercommon."
+            },
+            {
+              "title":"Duergar Resilience",
+              "description":"You have advantage on saving throws against illusions and against being charmed or paralyzed."
+            },
+            {
+              "title":"Duergar Magic",
+              "description":"When you reach 3rd level, you can cast the enlarge/reduce spell on yourself once with this trait, using only the spell's enlarge option. When you reach 5th level, you can cast the invisibility spell on yourself once with this trait. You don't need material components for either spell, and you can't cast them while you're in direct sunlight, although sunlight has no effect on them once cast. You regain the ability to cast these spells with this trait when you finish a long rest. Intelligence is your spellcasting ability for these spells."
+            },
+            {
+              "title":"Sunlight Sensitivity",
+              "description":"You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight"
+            }
+          ]
+        }
+      ],
+      "traits":[
+        {
+          "title":"Ability Score Increase",
+          "description":"Your Constitution score increases by 2."
+        },
+        {
+          "title":"Age",
+          "description":"Dwarves mature at the same rate as humans, but they're considered young until they reach the age of 50, On average, they live about 350 years."
+        },
+        {
+          "title":"Alignment",
+          "description":"Most dwarves are lawful, believing firmly in the benefits of a well-ordered society. They tend toward good as well, with a strong sense of fair play and a belief that everyone deserves to share in the benefits of a just order."
+        },
+        {
+          "title":"Size",
+          "description":"Dwarves stand between 4 and 5 feet tall and average about 150 pounds. Your size is Medium."
+        },
+        {
+          "title":"Speed",
+          "description":"Your base walking speed is 25 feet. Your speed is not reduced by wearing heavy armor."
+        },
+        {
+          "title":"Darkvision",
+          "description":"Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+        },
+        {
+          "title":"Dwarven Resilience",
+          "description":"You have advantage on saving throws against poison, and you have resistance against poison damage."
+        },
+        {
+          "title":"Dwarven Combat Training",
+          "description":"You have proficiency with the battleaxe, handaxe, throwing hammer, and warhammer."
+        },
+        {
+          "title":"Tool Proficiency",
+          "description":"You gain proficiency with the artisan's tools of your choice: smith's tools, brewer's supplies, or mason's tools."
+        },
+        {
+          "title":"Stonecunning",
+          "description":"Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus."
+        },
+        {
+          "title":"Languages",
+          "description":"You can speak, read, and write Common and Dwarvish. Dwarvish is full of hard consonants and guttural sounds, and those characteristics spill over into whatever other language a dwarf might speak."
+        }
+      ]
+    },
+    {
+      "name":"Elf",
+      "lore":"Racedescription",
+      "subraces":[
+        {
+          "name":"High Elf",
+          "lore":"Racedescription",
+          "traits":[
+            {
+              "title":"Ability Score Increase",
+              "description":"Your Intelligence score increases by 1."
+            },
+            {
+              "title":"Elf Weapon Training",
+              "description":"You have proficiency with the longsword, shortsword, shortbow, and longbow."
+            },
+            {
+              "title":"Cantrip",
+              "description":"You know one cantrip of your choice from the wizard list. Intelligence is your spellcasting ability for it."
+            },
+            {
+              "title":"Extra Language",
+              "description":"You can read, speak, and write one additional language of your choice."
+            }
+          ]
+        },
+        {
+          "name":"Wood Elf",
+          "lore":"Racedescription",
+          "traits":[
+            {
+              "title":"Ability Score Increase",
+              "description":"Your Wisdom score increases by 1."
+            },
+            {
+              "title":"Elf Weapon Training",
+              "description":"You have proficiency with the longsword, shortsword, shortbow, and longbow."
+            },
+            {
+              "title":"Fleet of Foot",
+              "description":"Your base walking speed increases to 35 feet."
+            },
+            {
+              "title":"Mask of the Wild",
+              "description":"You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena."
+            }
+          ]
+        },
+        {
+          "name":"Drow",
+          "lore":"Racedescription",
+          "traits":[
+            {
+              "title":"Ability Score Increase",
+              "description":"Your Charisma score increases by 1."
+            },
+            {
+              "title":"Superior Darkvision",
+              "description":"Your darkvision has a range of 120 feet, instead of 60."
+            },
+            {
+              "title":"Sunlight Sensitivity",
+              "description":"You have disadvantage on attack rolls and Wisdom (Perception) checks that rely on sight when you, the target of the attack, or whatever you are trying to perceive is in direct sunlight."
+            },
+            {
+              "title":"Drow Magic",
+              "description":"You know the dancing lights cantrip. When you reach 3rd level, you can cast faerie fire once, and it recharges after a long rest. When you reach 5th level, you can cast darkness once, and it recharges after a long rest. Charisma is your spellcasting ability for these spells."
+            },
+            {
+              "title":"Drow Weapon Training",
+              "description":"You have proficiency with rapiers, shortswords, and hand crossbows."
+            }
+          ]
+        },
+        {
+          "name":"Sea Elf",
+          "lore":"Racedescription",
+          "traits":[
+            {
+              "title":"Ability Score Increase",
+              "description":"Your Constitution score increases by 1."
+            },
+            {
+              "title":"Sea Elf Training",
+              "description":"You have proficiency with the spear, trident, light crossbow, and net."
+            },
+            {
+              "title":"Child of the Sea",
+              "description":"You have a swimming speed of 30 feet, and you can breathe air and water."
+            },
+            {
+              "title":"Friend of the Sea.",
+              "description":"Using gestures and sounds, you can communicate simple ideas with any beast that has an innate swimming speed."
+            },
+            {
+              "title":"Languages",
+              "description":"You can speak, read, and write Aquan."
+            }
+          ]
+        },
+        {
+          "name":"Eladrin",
+          "lore":"Racedescription",
+          "traits":[
+            {
+              "title":"Ability Score Increase",
+              "description":"Your Charisma score increases by 1."
+            },
+            {
+              "title":"Fey Step",
+              "description":"As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see."
+            },
+            {
+              "title":"TODO",
+              "description":"Different seasons"
+            }
+          ]
+        },
+        {
+          "name":"Shadar-Kai",
+          "lore":"Racedescription",
+          "traits":[
+            {
+              "title":"Ability Score Increase",
+              "description":"Your Constitution score increases by 1."
+            },
+            {
+              "title":"Necrotic Resistance",
+              "description":"You have resistance to necrotic damage."
+            },
+            {
+              "title":"Blessing of the Raven Queen",
+              "description":"As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see. Once you use this trait, you can't do so again until you finish a long rest. Starting at 3rd level, you also gain resistance to all damage when you teleport using this trait. The resistance lasts until the start of your next turn. During that time, you appear ghostly and translucent."
+            }
+          ]
+        }
+      ],
+      "traits":[
+        {
+          "title":"Ability Score Increase",
+          "description":"Your Dexterity score increases by 2."
+        },
+        {
+          "title":"Age",
+          "description":"Although elves reach physical maturity at the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood and an adult name around the age of 100, and can live to be 750 years old."
+        },
+        {
+          "title":"Alignment",
+          "description":"Elves love freedom, variety, and self-expression, so they lean strongly towards the gentler aspects of chaos. They value and protect others' freedom as well as their own, and are good more often than not. Drow are exception; their exile into the Underdark has made them vicious and dangerous. Drow are more often evil than not."
+        },
+        {
+          "title":"Size",
+          "description":"Elves range from under 5 to over 6 feet tall and have slender builds. Your size is Medium."
+        },
+        {
+          "title":"Speed",
+          "description":"Your base walking speed is 30 feet."
+        },
+        {
+          "title":"Darkvision",
+          "description":"Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+        },
+        {
+          "title":"Keen Senses",
+          "description":"You have proficiency in the Perception skill."
+        },
+        {
+          "title":"Fey Ancestry",
+          "description":"You have advantage on saving throws against being charmed, and magic can't put you to sleep."
+        },
+        {
+          "title":"Trance",
+          "description":"Elves do not sleep. Instead they meditate deeply, remaining semi-conscious, for 4 hours a day. The Common word for this meditation is 'trance'. While meditating, you dream after a fashion; such dreams are actually mental exercises that have become reflexive after years of practice. After resting in this way, you gain the same benefit a human would from 8 hours of sleep."
+        },
+        {
+          "title":"Languages",
+          "description":"You can speak, read, and write Common and Elven."
+        }
+      ]
+    },
+    {
+      "name":"Gnome",
+      "lore":"Racedescription",
+      "subraces":[
+        {
+          "name":"Forest Gnome",
+          "lore":"Racedescription",
+          "traits":[
+            {
+              "title":"Ability Score Increase",
+              "description":"Your Dexterity score increases by 1."
+            },
+            {
+              "title":"Natural Illusionist",
+              "description":"You know the minor illusion cantrip. Intelligence is your spellcasting modifier for it."
+            },
+            {
+              "title":"Speak with Small Beasts",
+              "description":"Through sound and gestures, you may communicate simple ideas with Small or smaller beasts."
+            }
+          ]
+        },
+        {
+          "name":"Rock Gnome",
+          "lore":"Racedescription",
+          "traits":[
+            {
+              "title":"Ability Score Increase",
+              "description":"Your Constitution score increases by 1."
+            },
+            {
+              "title":"Artificer's Lore",
+              "description":"Whenever you make an Intelligence (History) check related to magical, alchemical, or technological items, you can add twice your proficiency bonus instead of any other proficiency bonus that may apply."
+            },
+            {
+              "title":"Tinker",
+              "description":"You have proficiency with artisan tools (tinker's tools). Using those tools, you can spend 1 hour and 10 gp worth of materials to construct a Tiny clockwork device (AC 5, 1 hp). The device ceases to function after 24 hours (unless you spend 1 hour repairing it to keep the device functioning), or when you use your action to dismantle it; at that time, you can reclaim the materials used to create it. You can have up to three such devices active at a time. When you create a device, choose one of the following options:Clockwork Toy: This toy is a c1ockwork animal, monster, or person, such as a frog, mouse, bird, dragon, or soldier. When placed on the ground, the toy moves 5 feet across the ground on each of your turns in a random direction. It makes noises as appropriate to the creature it represents.Fire Starter: The device produces a miniature flame, which you can use to light a candle, torch, or campfire. Using the device requires your action.Music Box: When opened, this music box plays a single song at a moderate volume. The box stops playing when it reaches the song's end or when it is closed.At your DM's discretion, you may make other objects with effects similar in power to these. The prestidigitation cantrip is a good baseline for such effects."
+            }
+          ]
+        },
+        {
+          "name":"Deep Gnome",
+          "lore":"Racedescription",
+          "traits":[
+            {
+              "title":"Ability Score Increase",
+              "description":"Your Dexterity score increases by 1."
+            },
+            {
+              "title":"(Replace: Age)Age",
+              "description":"Deep gnomes are short-lived for gnomes. They mature at the same rate humans do and are considered full-grown adults by 25. They live 200 to 250 years, although hard toil and the dangers of the Underdark often claim them before their time."
+            },
+            {
+              "title":"(Replace: Alignment)Alignment",
+              "description":"Deep gnomes believe that survival depends on avoiding entanglements with other creatures and not making enemies, so they favor neutral alignments. They rarely wish others ill, and they are unlikely to take risks on behalf of others."
+            },
+            {
+              "title":"(Replace: Size)Size",
+              "description":"A typical deep gnome stands about 3 to 3½ feet tall and weighs 80 to 120 pounds. Your size is Small."
+            },
+            {
+              "title":"Superior Darkvision",
+              "description":"Your darkvision has a radius of 120 feet."
+            },
+            {
+              "title":"Stone Camouflage",
+              "description":"You have advantage on Dexterity (stealth) checks to hide in rocky terrain."
+            },
+            {
+              "title":"(Replace: Languages)Languages",
+              "description":"You can speak, read, and write Common, Gnomish, and Undercommon. The deep gnome dialect is more guttural than surface Gnomish, and most deep gnomes know only a little bit of Common, but those who deal with outsiders (and that includes you as an adventurer) pick up enough Common to get by in other lands."
+            }
+          ]
+        }
+      ],
+      "traits":[
+        {
+          "title":"Ability Score Increase",
+          "description":"Your Intelligence score increases by 2."
+        },
+        {
+          "title":"Age",
+          "description":"Gnomes mature at the same rate as humans, and most are expected to settle into adult life around the age of 40. They can live to 350 years on average, but it's not too uncommon for them to reach 500 years of age."
+        },
+        {
+          "title":"Alignment",
+          "description":"Gnomes are generally Good. Those who tend towards Law are sages, engineers, researchers, scholars, investigators, or inventors. Those who tend towards Chaos are often minstrels, tricksters, wanderers, or fanciful jewelers. Gnomes are light-hearted, and even the tricksters amongst them favor harmless pranks over vicious schemes."
+        },
+        {
+          "title":"Size",
+          "description":"Gnomes are between 3 and 4 feet tall and weigh around 40 pounds. Your size is Small."
+        },
+        {
+          "title":"Speed",
+          "description":"Your base walking speed is 25 feet."
+        },
+        {
+          "title":"Darkvision",
+          "description":"Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+        },
+        {
+          "title":"Gnome Cunning",
+          "description":"You have advantage on all Intelligence, Wisdom, and Charisma saves against magic."
+        },
+        {
+          "title":"Languages",
+          "description":"You can read, speak, and write Common and Gnomish."
+        }
+      ]
+    },
+    {
+      "name":"Half-elf",
+      "lore":"Racedescription",
+      "subraces":[{
+        "name":"Wood elf Heritage",
+        "lore":"Racedescription",
+        "traits":[
+          {
+            "title":"Weapon Training",
+            "description":"[Description]"
+          },{
+            "title":"Fleet of Foot",
+            "description":"[Description]"
+          },{
+            "title":"Mask of the Wild",
+            "description":"[Description]"
+          }
+        ]
+      },{
+        "name":"High elf Heritage",
+        "lore":"Racedescription",
+        "traits":[
+          {
+            "title":"Weapon Training",
+            "description":"[Description]"
+          },{
+            "title":"Cantrip",
+            "description":"[Description]"
+          }
+        ]
+      },{
+        "name":"Drow Heritage",
+        "lore":"Racedescription",
+        "traits":[
+          {
+            "title":"Drow Magic",
+            "description":"You know the dancing lights cantrip. When you reach 3rd level, you can cast the faerie fire spell once per day. When you reach 5th level, you can also cast the darkness spell once per day. Charisma is your spellcasting ability for these spells."
+          }
+        ]
+      },{
+        "name":"Aquatic Heritage",
+        "lore":"Racedescription",
+        "traits":[
+          {
+            "title":"Swimming Speed",
+            "description":"You have a swimming speed of 30 feet."
+          }
+        ]
+      }],
+      "traits":[
+        {
+          "title":"Ability Score Increase",
+          "description":"Your Charisma score increase by 2, and two other ability scores of your choice each increase by 1."
+        },
+        {
+          "title":"Age",
+          "description":"Half-elves age at much the same rate as humans, reaching adulthood at the age of 20. They live much longer than humans, however, often exceeding 180 years."
+        },
+        {
+          "title":"Alignment",
+          "description":"Half-elves share the chaotic bent of their elven heritage. They both value personal freedom and creative expression, demonstrating neither love of leaders nor desire for followers. They chafe at rules, resent others' demands, and sometimes prove unreliable, or at least unpredictable. They are good and evil in equal numbers, a trait they share with their human parents."
+        },
+        {
+          "title":"Size",
+          "description":"Half-elves are more or less the same size as humans, ranging from 5 to 6 feet tall. Your size is Medium."
+        },
+        {
+          "title":"Speed",
+          "description":"Your base walking speed is 30 feet."
+        },
+        {
+          "title":"Darkvision",
+          "description":"Thanks to your elven heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+        },
+        {
+          "title":"Fey Ancestry",
+          "description":"You have advantage on saving throws against being charmed, and magic can't put you to sleep."
+        },
+        {
+          "title":"Skill Versatility",
+          "description":"You gain proficiency in two skills of your choice."
+        },
+        {
+          "title":"Languages",
+          "description":"You can read, speak, and write Common, Elven, and one language of your choice."
+        }
+      ]
+    },
+    {
+      "name":"Half-orc",
+      "lore":"Racedescription",
+      "subraces":[
+
+      ],
+      "traits":[
+        {
+          "title":"Ability Score Increase",
+          "description":"Your Strength score increases by 2, and your Constitution score increases by 1."
+        },
+        {
+          "title":"Age",
+          "description":"Half-orcs mature a little faster than humans, reaching adulthood around age 14. They age noticeably faster and rarely live longer than 75 years."
+        },
+        {
+          "title":"Alignment",
+          "description":"Alignment. Half-ores inherit a tendency toward chaos from their orc parents and are not strongly inclined toward good. Half-ores raised among orcs and willing to live out their lives among them are usually evil."
+        },
+        {
+          "title":"Size",
+          "description":"Half-Orcs are somewhat larger and bulkier than humans, and they range from 5 to well over 6 feet tall. Your size is Medium."
+        },
+        {
+          "title":"Speed",
+          "description":"Your base walking speed is 30 feet."
+        },
+        {
+          "title":"Darkvision",
+          "description":"Thanks to your orc blood, you have superior vision in dark and dim Conditions. You can see in dim light within 60 feet of you as if it were bright light, and in Darkness as if it were dim light. You can’t discern color in Darkness, only shades of gray."
+        },
+        {
+          "title":"Menacing",
+          "description":"You gain proficiency in the Intimidation skill."
+        },
+        {
+          "title":"Relentless Endurance",
+          "description":"When you are reduced to 0 Hit Points but not killed outright, you can drop to 1 hit point instead. You can’t use this feature again until you finish a Long Rest."
+        },
+        {
+          "title":"Savage Attacks",
+          "description":"When you score a critical hit with a melee weapon Attack, you can roll one of the weapon’s damage dice one additional time and add it to the extra damage of the critical hit."
+        },
+        {
+          "title":"Languages",
+          "description":"You can speak, read, and write Common and Orc. Orc is a harsh, grating language with hard consonants. It has no script of its own but is written in the Dwarvish script."
+        }
+      ]
+    },
+    {
+      "name":"Halfling",
+      "lore":"Racedescription",
+      "subraces":[
+        {
+          "name":"Lightfoot Halfling",
+          "lore":"Racedescription",
+          "traits":[
+            {
+              "title":"Ability Score Increase",
+              "description":"Your Charisma score increases by 1."
+            },
+            {
+              "title":"Naturally Stealthy",
+              "description":"You can attempt to hide even when you are obscured only by a creature that is at least one size larger than you."
+            }
+          ]
+        },
+        {
+          "name":"Stout Halfling",
+          "lore":"Racedescription",
+          "traits":[
+            {
+              "title":"Ability Score Increase",
+              "description":"Your Constitution score increases by 1."
+            },
+            {
+              "title":"Stout Resilience",
+              "description":"You have advantage on saving throws against poison, and you have resistance against poison damage."
+            }
+          ]
+        },
+        {
+          "name":"Ghostwise Halfling",
+          "lore":"Racedescription",
+          "traits":[
+            {
+              "title":"Ability Score Increase",
+              "description":"Your Wisdom score increases by l . "
+            },
+            {
+              "title":"Silent Speech",
+              "description":"You can speak telepathically to any creature within 30 feet of you. The creature understands you only if the two of you share a language. You can speak telepathically in this way to one creature at a time. "
+            }
+          ]
+        }
+      ],
+      "traits":[
+        {
+          "title":"Ability Score Increase",
+          "description":"Your Dexterity score increases by 2."
+        },
+        {
+          "title":"Age",
+          "description":"A halfling reaches Adulthood at the age of 20 and generally lives into the middle of his or her second century."
+        },
+        {
+          "title":"Alignment",
+          "description":"Most Halflings are lawful good. As a rule, they are good-hearted and kind, hate to see others in pain, and have no tolerance for oppression. They are also very orderly and traditional, leaning heavily on the support of their community and the comfort of their old ways."
+        },
+        {
+          "title":"Size",
+          "description":"Halflings average about 3 feet tall and weigh about 40 pounds. Your size is Small."
+        },
+        {
+          "title":"Speed",
+          "description":"Your base walking speed is 25 feet."
+        },
+        {
+          "title":"Lucky",
+          "description":"When you roll a 1 on the D20 for an Attack roll, ability check, or saving throw, you can reroll the die and must use the new roll."
+        },
+        {
+          "title":"Brave",
+          "description":"You have advantage on Saving Throws against being Frightened."
+        },
+        {
+          "title":"Halfling Nimbleness",
+          "description":"You can move through the space of any creature that is of a size larger than yours."
+        },
+        {
+          "title":"Languages",
+          "description":"You can speak, read, and write Common and Halfling. The Halfling language isn’t secret, but Halflings are loath to share it with others. They write very little, so they don’t have a rich body of literature. Their oral tradition, however, is very strong. Almost all Halflings speak Common to converse with the people in whose lands they dwell or through which they are traveling."
+        }
+      ]
+    },
+    {
+      "name":"Human",
+      "lore":"Racedescription",
+      "subraces":[{
+        "name":"Regular Human",
+        "lore":"Racedescription",
+        "traits":[
+          {
+            "title":"",
+            "description":"<i>No traits have been added or changed.</i>"
+          }
+        ]
+      },
+        {
+          "name":"Variant Human",
+          "lore":"Racedescription",
+          "traits":[
+            {
+              "title":"(Replace: Ability Score Increase)Ability Score Increase",
+              "description":"Two different ability scores of your choice increase by 1."
+            },
+            {
+              "title":"Skills",
+              "description":"You gain proficiency in one skill of your choice."
+            },
+            {
+              "title":"Feat",
+              "description":"You gain one feat of your choice."
+            }
+          ]
+        }
+      ],
+      "traits":[
+        {
+          "title":"Ability Score Increase",
+          "description":"Your ability scores each increase by 1."
+        },
+        {
+          "title":"Age",
+          "description":"Humans reach adulthood in their late teens and live less than a century."
+        },
+        {
+          "title":"Alignment",
+          "description":"Humans tend toward no particular alignment. The best and the worst are found among them."
+        },
+        {
+          "title":"Size",
+          "description":"Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium."
+        },
+        {
+          "title":"Speed",
+          "description":"Your base walking speed is 30 feet."
+        },
+        {
+          "title":"Languages",
+          "description":"You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on."
+        }
+      ]
+    },
+    {
+      "name":"Tiefling",
+      "lore":"Racedescription",
+      "subraces":[{
+        "name":"Feral Tiefling",
+        "lore":"Racedescription",
+        "traits":[
+          {
+            "title":"Appearance",
+            "description":"Your tiefling might not look like other tieflings. Rather than having the physical characteristics described in the Player's Handbook, choose ld4 + l of the following features: small horns; fangs or sharp teeth; a forked tongue; catlike eyes; six fingers on each hand; goatlike legs; cloven hoofs; a forked tail; leathery or scaly skin; red or dark blue skin; cast no shadow or reflection; exude a smell of brimstone."
+          },
+          {
+            "title":"(Replace: Ability Score Increase)Ability Score Increase",
+            "description":"Your Dexterity score increases by 2, and your Intelligence score increases by 1."
+          }
+        ]
+      },{
+        "name":"Devil's Tongue",
+        "lore":"Racedescription",
+        "traits":[{
+          "title":"(Replace: Infernal Legacy)Devil's Tongue",
+          "description":"You know the vicious mockery cantrip. When you reach 3rd level, you can cast the charm person spell as a 2nd-level spell once with this trait. When you reach 5th level, you can cast the enthrall spell once with this trait. You must finish a long rest to cast these spells once again with this trait. Charisma is your spellcasting ability for them."
+        }
+        ]
+      },{
+        "name":"Hellfire",
+        "lore":"Racedescription",
+        "traits":[{
+          "title":"(Replace: Infernal Legacy)Hellfire",
+          "description":"You know the Thaumaturgy cantrip. When you reach 3rd level, you can cast the Burning Hands spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a Long Rest. When you reach 5th level, you can cast the Darkness spell once with this trait and regain the ability to do so when you finish a Long Rest. Charisma is your Spellcasting ability for these Spells."
+        }
+        ]
+      },{
+        "name":"Winged",
+        "lore":"Racedescription",
+        "traits":[{
+          "title":"(Replace: Infernal Legacy)Winged",
+          "description":"You have bat-like wings sprouting from your shoulder blades. You have a flying speed of 30 feet. This trait replaces the Infernal Legacy trait."
+        }
+        ]
+      },{
+        "name":"Asmodeus",
+        "lore":"Racedescription",
+        "traits":[{
+          "title":"",
+          "description":"<i>No traits have been added or changed.</i>"
+        }
+        ]
+      },{
+        "name":"Baalzebul",
+        "lore":"Racedescription",
+        "traits":[{
+          "title":"(Replace: Ability Score Increase)Ability Score Increase",
+          "description":"Your Charisma score increases by 2, and your Intelligence score increases by 1."
+        },{
+          "title":"(Replace: Infernal Legacy)Legacy of Maladomini",
+          "description":"You know the thaumaturgy cantrip. When you reach 3rd level, you can cast the ray of sickness spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the crown of madness spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells."
+        }
+        ]
+      },{
+        "name":"Dispater",
+        "lore":"Racedescription",
+        "traits":[{
+          "title":"(Replace: Ability Score Increase)Ability Score Increase",
+          "description":"Your Charisma score increases by 2, and your Dexterity score increases by 1."
+        },{
+          "title":"(Replace: Infernal Legacy)Legacy of Dis",
+          "description":"You know the thaumaturgy cantrip. When you reach 3rd level, you can cast the disguise self spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the detect thoughts spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells."
+        }
+        ]
+      },{
+        "name":"Fierna",
+        "lore":"Racedescription",
+        "traits":[{
+          "title":"(Replace: Ability Score Increase)Ability Score Increase",
+          "description":"Your Charisma score increases by 2, and your Wisdom score increases by 1."
+        },{
+          "title":"(Replace: Infernal Legacy)Legacy of Phlegethos",
+          "description":"You know the friends cantrip. When you reach 3rd level, you can cast the charm person spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the suggestion spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells."
+        }
+        ]
+      },{
+        "name":"Glasya",
+        "lore":"Racedescription",
+        "traits":[{
+          "title":"(Replace: Ability Score Increase)Ability Score Increase",
+          "description":"Your Charisma score increases by 2, and your Dexterity score increases by 1."
+        },{
+          "title":"(Replace: Infernal Legacy)Legacy of Malbolge",
+          "description":"You know the minor illusion cantrip. When you reach 3rd level, you can cast the disguise self spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level,  you can cast the invisibility spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells."
+        }
+        ]
+      },{
+        "name":"Levistus",
+        "lore":"Racedescription",
+        "traits":[{
+          "title":"(Replace: Ability Score Increase)Ability Score Increase",
+          "description":"Your Charisma score increases by 2, and your Constitution score increases by 1."
+        },{
+          "title":"(Replace: Infernal Legacy)Legacy of Stygia",
+          "description":"You know the ray of frost cantrip. When you reach 3rd level, you can cast the armor of Agathys spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the darkness spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells."
+        }
+        ]
+      },{
+        "name":"Mammon",
+        "lore":"Racedescription",
+        "traits":[{
+          "title":"(Replace: Ability Score Increase)Ability Score Increase",
+          "description":"Your Charisma score increases by 2, and your Dexterity score increases by 1."
+        },{
+          "title":"(Replace: Infernal Legacy)Legacy of Minauros",
+          "description":"You know the mage hand cantrip. When you reach 3rd level, you can cast the Tenser's floating disk spell once with this trait and regain the ability to do so when you finish a short or long rest. When you reach 5th level, you can cast the arcane lock spell once with this trait, requiring no material component,  and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells."
+        }
+        ]
+      },{
+        "name":"Mephistopheles",
+        "lore":"Racedescription",
+        "traits":[{
+          "title":"(Replace: Ability Score Increase)Ability Score Increase",
+          "description":"Your Charisma score increases by 2, and your Intelligence score increases by 1."
+        },{
+          "title":"(Replace: Infernal Legacy)Legacy of Cania",
+          "description":"You know the mage hand cantrip. When you reach 3rd level, you can cast the burning hands spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the flame blade spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells."
+        }
+        ]
+      },{
+        "name":"Zariel",
+        "lore":"Racedescription",
+        "traits":[{
+          "title":"(Replace: Ability Score Increase)Ability Score Increase",
+          "description":"Your Charisma score increases by 2, and your Strength score increases by 1."
+        },{
+          "title":"(Replace: Infernal Legacy)Legacy of Avernus",
+          "description":"You know the thaumaturgy cantrip. When you reach 3rd level, you can cast the searing smite spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the branding smite spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells."
+        }
+        ]
+      }],
+      "traits":[
+        {
+          "title":"Ability Score Increase",
+          "description":"Your Intelligence score increases by 1, and your Charisma score increases by 2."
+        },
+        {
+          "title":"Age",
+          "description":"Tieflings mature at the same rate as humans but live a few years longer."
+        },
+        {
+          "title":"Alignment",
+          "description":"Tieflings might not have an innate tendency toward evil, but many of them end up there. Evil or not, an independent Nature inclines many tieflings toward a chaotic Alignment."
+        },
+        {
+          "title":"Size",
+          "description":"Tieflings are about the same size and build as humans. Your size is Medium."
+        },
+        {
+          "title":"Speed",
+          "description":"Your base walking speed is 30 feet."
+        },
+        {
+          "title":"Darkvision",
+          "description":"Thanks to your Infernal heritage, you have superior vision in dark and dim Conditions. You can see in dim light within 60 feet of you as if it were bright light, and in Darkness as if it were dim light. You can’t discern color in Darkness, only shades of gray."
+        },
+        {
+          "title":"Hellish Resistance",
+          "description":"You have Resistance to fire damage."
+        },
+        {
+          "title":"Infernal Legacy",
+          "description":"You know the Thaumaturgy cantrip. When you reach 3rd level, you can cast the Hellish Rebuke spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a Long Rest. When you reach 5th level, you can cast the Darkness spell once with this trait and regain the ability to do so when you finish a Long Rest. Charisma is your Spellcasting ability for these Spells."
+        },
+        {
+          "title":"Languages",
+          "description":"You can speak, read, and write Common and Infernal."
+        }
+      ]
+    },
+    {
+      "name":"Aarakocra",
+      "lore":"Racedescription",
+      "subraces":[
+
+      ],
+      "traits":[
+        {
+          "title":"Ability Score Increase",
+          "description":"Your Dexterity score increases by 2, and your Wisdom score increases by 1."
+        },
+        {
+          "title":"Age",
+          "description":"Aarakocra reach maturity by age 3. Compared to humans, aarakocra don’t usually live longer than 30 years"
+        },
+        {
+          "title":"Alignment",
+          "description":"Most aarakocra are good and rarely choose sides when it comes to law and chaos. Tribal leaders and warriors might be lawful, while explorers and adventurers might tend toward chaotic."
+        },
+        {
+          "title":"Size",
+          "description":"Aarakocra are about 5 feet tall. They have thin, lightweight bodies that weigh between 80 and 100 pounds. Your size is Medium."
+        },
+        {
+          "title":"Speed",
+          "description":"Your base walking speed is 25 feet."
+        },
+        {
+          "title":"Flight",
+          "description":"You have a flying speed of 50 feet. To use this speed, you can’t be wearing medium or heavy armor"
+        },
+        {
+          "title":"Talons",
+          "description":"You are proficient with your unarmed strikes, which deal 1d4 slashing damage on a hit."
+        },
+        {
+          "title":"Languages",
+          "description":"You can speak, read, and write Common, Aarakocra, and Auran."
+        }
+      ]
+    },
+    {
+      "name":"Genasi",
+      "lore":"Racedescription",
+      "subraces":[
+        {
+          "name":"Air Genasi",
+          "lore":"Racedescription",
+          "traits":[
+            {
+              "title":"Ability Score Increase",
+              "description":"Your Dexterity score increases by 1."
+            },
+            {
+              "title":"Unending Breath",
+              "description":"You can hold your breath indefinitely while you’re not incapacitated."
+            },
+            {
+              "title":"Mingle with the Wind",
+              "description":"You can cast the levitate spell once with this trait, requiring no material components, and you regain the ability to cast it this way when you finish a long rest. Constitution is your spellcasting ability for this spell."
+            }
+          ]
+        },
+        {
+          "name":"Earth Genasi",
+          "lore":"Racedescription",
+          "traits":[
+            {
+              "title":"Ability Score Increase",
+              "description":"Your Strength score increases by 1."
+            },
+            {
+              "title":"Earth Walk",
+              "description":"You can move across difficult terrain made of earth or stone without expending extra movement."
+            },
+            {
+              "title":"Merge with Stone",
+              "description":"You can cast the pass without trace spell once with this trait, requiring no material components, and you regain the ability to cast it this way when you finish a long rest. Constitution is your spellcasting ability for this spell."
+            }
+          ]
+        },
+        {
+          "name":"Fire Genasi",
+          "lore":"Racedescription",
+          "traits":[
+            {
+              "title":"Ability Score Increase",
+              "description":"Your Intelligence score increases by 1."
+            },
+            {
+              "title":"Darkvision",
+              "description":"You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. Your ties to the Elemental Plane of Fire make your darkvision unusual: everything you see in darkness is in a shade of red."
+            },
+            {
+              "title":"Fire Resistance",
+              "description":"You have resistance to fire damage."
+            },
+            {
+              "title":"Reach to the Blaze",
+              "description":" You know the produce flame cantrip. Once you reach 3rd level, you can cast the burning hands spell once with this trait as a 1st-level spell, and you regain the ability to cast it this way when you finish a long rest. Constitution is your spellcasting ability for these spells."
+            }
+          ]
+        },
+        {
+          "name":"Water Genasi",
+          "lore":"Racedescription",
+          "traits":[
+            {
+              "title":"Ability Score Increase",
+              "description":"Your Wisdom score increases by 1."
+            },
+            {
+              "title":"Acid Resistance",
+              "description":"You have resistance to acid damage."
+            },
+            {
+              "title":"Amphibious",
+              "description":"You can breathe air and water."
+            },
+            {
+              "title":"Swim",
+              "description":"You have a swimming speed of 30 feet."
+            },
+            {
+              "title":"Call to the Wave",
+              "description":"You know the shape water cantrip (see chapter 2). When you reach 3rd level, you can cast the create or destroy water spell as a 2nd-level spell once with this trait, and you regain the ability to cast it this way when you finish a long rest. Constitution is your spellcasting ability for these spells."
+            }
+          ]
+        }
+      ],
+      "traits":[
+        {
+          "title":"Ability Score Increase",
+          "description":"Your Constitution score increases by 2."
+        },
+        {
+          "title":"Age",
+          "description":"Genasi mature at about the same rate as humans and reach adulthood in their late teens. They live somewhat longer than humans do, up to 120 years."
+        },
+        {
+          "title":"Alignment",
+          "description":"Independent and self-reliant, genasi tend toward a neutral alignment."
+        },
+        {
+          "title":"Size",
+          "description":" Genasi are as varied as their mortal parents but are generally built like humans, standing anywhere from 5 feet to over 6 feet tall. Your size is Medium."
+        },
+        {
+          "title":"Speed",
+          "description":"Your base walking speed is 30 feet."
+        },
+        {
+          "title":"Languages",
+          "description":"You can speak, read, and write Common and Primordial. Primordial is a guttural language, filled with harsh syllables and hard consonants."
+        }
+      ]
+    },
+    {
+      "name":"Goliath",
+      "lore":"Racedescription",
+      "subraces":[
+
+      ],
+      "traits":[
+        {
+          "title":"Ability Score Increase",
+          "description":"Your Strength score increases by 2, and your Constitution score increases by 1."
+        },
+        {
+          "title":"Age",
+          "description":"Goliaths have lifespans comparable to humans. They enter adulthood in their late teens and usually live less than a century."
+        },
+        {
+          "title":"Alignment",
+          "description":"Goliath society, with its clear roles and tasks, has a strong lawful bent. The goliath sense of fairness, balanced with an emphasis on selfsufficiency and personal accountability, pushes them toward neutrality."
+        },
+        {
+          "title":"Size",
+          "description":"Goliaths are between 7 and 8 feet tall and weigh between 280 and 340 pounds. Your size is Medium."
+        },
+        {
+          "title":"Speed",
+          "description":"Your base walking speed is 30 feet."
+        },
+        {
+          "title":"Natural Athlete",
+          "description":"You have proficiency in the Athletics skill."
+        },
+        {
+          "title":"Stone's Endurance",
+          "description":"You can focus yourself to occasionally shrug off injury. When you take damage, you can use your reaction to roll a d12. Add your Constitution modifier to the number rolled, and reduce the damage by that total. After you use this trait, you can’t use it again until you finish a short or long rest."
+        },
+        {
+          "title":"Powerful Build",
+          "description":"You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift."
+        },
+        {
+          "title":"Mountain Born",
+          "description":"You’re acclimated to high altitude, including elevations above 20,000 feet. You’re also naturally adapted to cold climates, as described in chapter 5 of the Dungeon Master’s Guide."
+        },
+        {
+          "title":"Languages",
+          "description":"You can speak, read, and write Common and Giant."
+        }
+      ]
+    },
+    {
+      "name":"Aasimar",
+      "lore":"Racedescription",
+      "subraces":[
+        {
+          "name":"Protector Aasimar",
+          "lore":"Racedescription",
+          "traits":[
+            {
+              "title":"Ability Score Increase",
+              "description":"Your Wisdom score increases by 1."
+            },
+            {
+              "title":"Radiant Soul",
+              "description":"Starting at 3rd level, you can use your action to unleash the divine energy within yourself, causing your eyes to glimmer and two luminous, incorporeal wings to sprout from your back. Your transformation lasts for 1 minute or until you end it as a bonus action. During it, you have a flying speed of 30 feet, and once on each of your turns, you can deal extra radiant damage to one target when you deal damage to it with an attack or a spell. The extra radiant damage equals your level. Once you use this trait, you can't use it again until you finish a long rest."
+            }
+          ]
+        },
+        {
+          "name":"Scourge Aasimar",
+          "lore":"Racedescription",
+          "traits":[
+            {
+              "title":"Ability Score Increase",
+              "description":"Your Constitution score increases by 1."
+            },
+            {
+              "title":"Radiant Consumption",
+              "description":"Starting at 3rd level, you can use your action to unleash the divine energy within yourself, causing a searing light to radiate from you, pour out of your eyes and mouth, and threaten to char you. Your transformation lasts for 1 minute or until you end it as a bonus action. During it, you shed bright light in a 10-foot radius and dim light for an additional 10 feet, and at the end of each of your turns, you and each creature within 10 feet of you take radiant damage equal to half your level (rounded up). In addition, once on each of your turns, you can deal extra radiant damage to one target when you deal damage to it with an attack or a spell. The extra radiant damage equals your level. Once you use this trait, you can't use it again until you finish a long rest."
+            }
+          ]
+        },
+        {
+          "name":"Fallen Aasimar",
+          "lore":"Racedescription",
+          "traits":[
+            {
+              "title":"Ability Score Increase",
+              "description":"Your Strength score increases by 1."
+            },
+            {
+              "title":"Necrotic Shroud",
+              "description":"Necrotic Shroud. Starting at 3rd level, you can use your action to unleash the divine energy within yourself, causing your eyes to turn into pools of darkness and two skeletal, ghostly, flightless wings to sprout from your back. The instant you transform, other creatures within 10 feet of you that can see you must each succeed on a Charisma saving throw (DC 8 + your proficiency bonus + your Charisma modifier) or become frightened of you until the end of your next turn. Your transformation lasts for 1 minute or until you end it as a bonus action. During it, once on each of your turns, you can deal extra necrotic damage to one target when you deal damage to it with an attack or a spell. The extra necrotic damage equals your level. Once you use this trait, you can't use it again until you finish a long rest."
+            }
+          ]
+        }
+      ],
+      "traits":[
+        {
+          "title":"Ability Score Increase",
+          "description":"Your Charisma score increases by 2. "
+        },
+        {
+          "title":"Age",
+          "description":"Aasimar mature at the same rate as humans, but they can live up to 160 years."
+        },
+        {
+          "title":"Alignment",
+          "description":"Imbued with celestial power, most aasimar are good. Outcast aasimar are most often neutral or even evil."
+        },
+        {
+          "title":"Size",
+          "description":"Aasimar have the same range of height and weight as humans."
+        },
+        {
+          "title":"Speed",
+          "description":"Your base walking speed is 30 feet."
+        },
+        {
+          "title":"Darkvision",
+          "description":"Blessed with a radiant soul, your vision can easily cut through darkness. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+        },
+        {
+          "title":"Celestial Resistance",
+          "description":"You have resistance to necrotic damage and radiant damage."
+        },
+        {
+          "title":"Healing Hands",
+          "description":"As an action, you can touch a creature and cause it to regain a number of hit points equal to your level. Once you use this trait, you can't use it again until you finish a long rest."
+        },
+        {
+          "title":"Light Bearer",
+          "description":"You know the light cantrip. Charisma is your spellcasting ability for it."
+        },
+        {
+          "title":"Languages",
+          "description":"You can speak, read, and write Common and Celestial."
+        }
+      ]
+    },
+    {
+      "name":"Firbolg",
+      "lore":"Racedescription",
+      "subraces":[],
+      "traits":[
+        {
+          "title":"Ability Score Increase",
+          "description":"Your Wisdom score increases by 2, and your Strength score increases by 1."
+        },
+        {
+          "title":"Age",
+          "description":"As humanoids related to the fey, firbolg have long lifespans. A firbolg reaches adulthood around 30, and the oldest of them can live for 500 years."
+        },
+        {
+          "title":"Alignment",
+          "description":"As people who follow the rhythm of nature and see themselves as its caretakers, firbolg are typically neutral good. Evil firbolg are rare and are usually the sworn enemies of the rest of their kind."
+        },
+        {
+          "title":"Size",
+          "description":"Firbolg are between 7 and 8 (eet tall and weigh between 240 and 300 pounds. Your size is Medium."
+        },
+        {
+          "title":"Speed",
+          "description":"Your base walking speed is 30 feet."
+        },
+        {
+          "title":"Firbolg Magic",
+          "description":"You can cast detect magic and disguise self with this trait, using Wisdom as your spell casting ability for them. Once you cast either spell, you can't cast it again with this trait until you finish a short or long rest. When you use this version of disguise self, you can seem up to 3 feet shorter than normal, allowing you to more easily blend in with humans and elves."
+        },
+        {
+          "title":"Hidden Step",
+          "description":"As a bonus action, you can magically tum invisible until the start of your next turn or until you attack, make a damage roll, or force someone to make a saving throw. Once you use this trait, you can't use it again until you finish a short or long rest."
+        },
+        {
+          "title":"Powerful Build",
+          "description":"You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift."
+        },
+        {
+          "title":"Speech of Beast and Leaf",
+          "description":"You have the ability to communicate in a limited manner with beasts and plants. They can understand the meaning of your words, though you have no special ability to understand them in return. You have advantage on all Charisma checks you make to influence them."
+        },
+        {
+          "title":"Languages",
+          "description":"You can speak, read, and write Common, Elvish, and Giant."
+        }
+      ]
+    },
+    {
+      "name":"Kenku",
+      "lore":"Racedescription",
+      "subraces":[],
+      "traits":[
+        {
+          "title":"Ability Score Increase",
+          "description":"Your Dexterity score increases by 2, and your Wisdom score increases by 1."
+        },
+        {
+          "title":"Age",
+          "description":"Kenku have shorter lifespans than humans. They reach maturity at about 12 years old and can live to 60."
+        },
+        {
+          "title":"Alignment",
+          "description":"Kenku are chaotic creatures, rarely making enduring commitments, and they care mostly for preserving their own hides. They are generally chaotic neutral in outlook."
+        },
+        {
+          "title":"Size",
+          "description":"Kenku are around 5 feet tall and weigh between 90 and 120 pounds. Your size is Medium."
+        },
+        {
+          "title":"Speed",
+          "description":"Your base walking speed is 30 feet."
+        },
+        {
+          "title":"Expert Forgery",
+          "description":"You can duplicate other creatures' handwriting and craftwork. You have advantage on all checks made to produce forgeries or duplicates of existing objects."
+        },
+        {
+          "title":"Kenku Training",
+          "description":"You are proficient in your choice of two of the following skills: Acrobatics, Deception, Stealth, and Sleight of Hand."
+        },
+        {
+          "title":"Mimicry",
+          "description":"You can mimic sounds you have heard, including voices. A creature that hears the sounds you make can tell they are imitations with a successful Wisdom (Insight) check opposed by your Charisma (Deception) check."
+        },
+        {
+          "title":"Languages",
+          "description":"You can read and write Common and Auran, but you can speak only by using your Mimicry trait."
+        }
+      ]
+    },
+    {
+      "name":"Lizardfolk",
+      "lore":"Racedescription",
+      "subraces":[],
+      "traits":[
+        {
+          "title":"Ability Score Increase",
+          "description":"Your Constitution score increases by 2, and your Wisdom score increases by 1."
+        },
+        {
+          "title":"Age",
+          "description":"Lizardfolk reach maturity arqund age 14 and rarely live longer than 60 years."
+        },
+        {
+          "title":"Alignment",
+          "description":"Most lizardfolk are neutral. They see the world as a place of predators and prey, where life and death are natural processes. They wish only to survive, and prefer to leave other creatures to their own devices."
+        },
+        {
+          "title":"Size",
+          "description":"Lizardfolk are a little bulkier and taller than humans, and their colorful frills make them appear even larger. Your size is Medium."
+        },
+        {
+          "title":"Speed",
+          "description":"Your base walking speed is 30 feet, and you have a swimming speed of 30 feet."
+        },
+        {
+          "title":"Bite",
+          "description":"Your fanged maw is a natural weapon, which you can use to make unarmed strikes. If you hit with it, you deal piercing damage equal to 1d6 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike."
+        },
+        {
+          "title":"Cunning Artisan",
+          "description":"As part of a short rest, you can harvest bone and hide from a slain beast, construct, dragon, monstrosity, or plant creature of size Small or larger to create one of the following items: a shield, a club, a javelin, or ld4 darts or blowgun needles. To use this trait, you need a blade, such as a dagger, or appropriate artisan's tools, such as leatherworker's tools."
+        },
+        {
+          "title":"Hold Breath",
+          "description":"You can hold your breath for up to 15 minutes at a time."
+        },{
+          "title":"Hunter's Lore",
+          "description":"You gain proficiency with two of the following skills of your choice: Animal Handling, Nature, Perception, Stealth, and Survival."
+        },{
+          "title":"Natural Armor",
+          "description":"You have tough, scaly skin. When you aren't wearing armor, your AC is 13 + your Dexterity modifier. You can use your natural armor to determine your AC if the armor you wear would leave you with a lower AC. A shield's benefits apply as normal while you use your natural armor."
+        },{
+          "title":"Hungry Jaws",
+          "description":"In battle, you can throw yourself into a vicious feeding frenzy. As a bonus action, you can make a special attack with your bite. If the attack hits, it deals its normal damage, and you gain temporary hit points (minimum of 1) equal to your Constitution modifier, and you can't use this trait again until you finish a short or long rest."
+        },
+        {
+          "title":"Languages",
+          "description":"You can speak, read, and write Common and Draconic."
+        }
+      ]
+    },
+    {
+      "name":"Tabaxi",
+      "lore":"Racedescription",
+      "subraces":[],
+      "traits":[
+        {
+          "title":"Ability Score Increase",
+          "description":"Your Dexterity score increases by 2, and your Charisma score increases by 1."
+        },
+        {
+          "title":"Age",
+          "description":"Tabaxi have lifespans equivalent to humans."
+        },
+        {
+          "title":"Alignment",
+          "description":"Tabaxi tend toward chaotic alignments, as they let impulse and fancy guide their decisions. They are rarely evil, with most of them driven by curiosity rather than greed or other dark impulses."
+        },
+        {
+          "title":"Size",
+          "description":"Tabaxi are taller on average than humans and relatively slender. Your size is Medium."
+        },
+        {
+          "title":"Speed",
+          "description":"Your base walking speed is 30 feet, and you have a swimming speed of 30 feet."
+        },
+        {
+          "title":"Darkvision",
+          "description":"You have a cat's keen senses, especially in the dark. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+        },
+        {
+          "title":"Feline Agility",
+          "description":"Your reflexes and agility allow you to move with a burst of speed. When you move on your tum in combat, you can double your speed until the end of the tum. Once you use this trait, you can't use it again until you move O feet on one of your turns."
+        },
+        {
+          "title":"Cat's Claws",
+          "description":"Because of your claws, you have a climbing speed of 20 feet. In addition, your claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to ld4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike."
+        },{
+          "title":"Cat's Talent",
+          "description":"You have proficiency in the Perception and Stealth skills."
+        },
+        {
+          "title":"Languages",
+          "description":"You can speak, read, and write Common and one other language of your choice."
+        }
+      ]
+    },
+    {
+      "name":"Triton",
+      "lore":"Racedescription",
+      "subraces":[],
+      "traits":[
+        {
+          "title":"Ability Score Increase",
+          "description":"Your Strength, Constitution, and Charisma scores each increase by 1."
+        },
+        {
+          "title":"Age",
+          "description":"Tritons reach maturity around age 15 and can live up to 200 years."
+        },
+        {
+          "title":"Alignment",
+          "description":"Tritons tend toward lawful good. As guardians of the darkest reaches of the sea, their culture pushes them toward order and benevolence."
+        },
+        {
+          "title":"Size",
+          "description":"Tritons are slightly shorter than humans, averaging about 5 feet tall. Your size is Medium."
+        },
+        {
+          "title":"Speed",
+          "description":"Your base walking speed is 30 feet, and you have a swimming speed of 30 feet."
+        },
+        {
+          "title":"Amphibious",
+          "description": "You can breathe air and water."
+        },
+        {
+          "title":"Control Air and Water",
+          "description":"A child of the sea, you can call on the magic of elemental air and water. You can cast fog cloud with this trait. Starting at 3rd level, you can cast gust of wind with it, and starting at 5th level, you can also cast wall of water with it (see the spell in the sidebar). Once you cast a spell with this trait, you can't do so again until you finish a long rest. Charisma is your spellcasting ability for these spells."
+        },
+        {
+          "title":"Emissary of the Sea",
+          "description":"Aquatic beasts have an extraordinary affinity with your people. You can communicate simple ideas with beasts that can breathe water. They can understand the meaning of your words, though you have no special ability to understand them in return."
+        },{
+          "title":"Guardians of the Depths",
+          "description":"Adapted to even the most extreme ocean depths, you have resistance to cold damage, and you ignore any of the drawbacks caused by a deep, underwater environment."
+        },
+        {
+          "title":"Languages",
+          "description":"You can speak, read, and write Common and Primordial."
+        }
+      ]
+    },
+    {
+      "name":"Bugbear",
+      "lore":"Racedescription",
+      "subraces":[],
+      "traits":[
+        {
+          "title":"Ability Score Increase",
+          "description":"Your Strength score increases by 21 and your Dexterity score increases by 1."
+        },
+        {
+          "title":"Age",
+          "description":"Bugbears reach adulthood at age 16 and live up to 80 years."
+        },
+        {
+          "title":"Alignment",
+          "description":"Bugbears endure a harsh existence that demands each of them to remain self-sufficient, even at the expense of their fellows. They tend to be chaotic evil."
+        },
+        {
+          "title":"Size",
+          "description":"Bugbears are between 6 and 8 feet tall and weigh between 250 and 350 pounds. Your size is Medium."
+        },
+        {
+          "title":"Speed",
+          "description":"Your base walking speed is 30 feet."
+        },
+        {
+          "title":"Darkvision",
+          "description": "You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+        },
+        {
+          "title":"Long-limbed",
+          "description":"When you make a melee attack on your turn, your reach for it is 5 feet greater than normal."
+        },
+        {
+          "title":"Sneaky",
+          "description":"You are proficient in the Stealth skill."
+        },{
+          "title":"Surprise Attack",
+          "description":"If you surprise a creature and hit it with an attack on your first turn in combat, the attack deals an extra 2d6 damage to it. You can use this trait only once per combat."
+        },
+        {
+          "title":"Languages",
+          "description":"You can speak, read, and write Common and Goblin."
+        }
+      ]
+    },
+    {
+      "name":"Goblin",
+      "lore":"Racedescription",
+      "subraces":[],
+      "traits":[
+        {
+          "title":"Ability Score Increase",
+          "description":"Your Dexterity score increases by 2, and your Constitution score increases by 1."
+        },
+        {
+          "title":"Age",
+          "description":"Goblins reach adulthood at age 8 and live up to 60 years."
+        },
+        {
+          "title":"Alignment",
+          "description":"Goblins are typically neutral evil, as they care only for their own needs. A few goblins might tend toward good or neutrality, but only rarely."
+        },
+        {
+          "title":"Size",
+          "description":"Goblins are between 3 and 4 feet tall and weigh between 40 and 80 pounds. Your size is Small."
+        },
+        {
+          "title":"Speed",
+          "description":"Your base walking speed is 30 feet."
+        },
+        {
+          "title":"Darkvision",
+          "description": "You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+        },
+        {
+          "title":"Fury of the Small",
+          "description":"When you damage a creature with an attack or a spell and the creature's size is larger than yours, you can cause the attack or spell to deal extra damage to the creature. The extra damage equals your level. Once you use this trait, you can't use it again until you finish a short or long rest."
+        },
+        {
+          "title":"Nimble Escape",
+          "description":"You can take the Disengage or Hide action as a bonus action on each of your turns."
+        },
+        {
+          "title":"Languages",
+          "description":"You can speak, read, and write Common and Goblin."
+        }
+      ]
+    },
+    {
+      "name":"Hobgoblin",
+      "lore":"Racedescription",
+      "subraces":[],
+      "traits":[
+        {
+          "title":"Ability Score Increase",
+          "description":"Your Constitution score increases by 2, and your Intelligence score increases by 1."
+        },
+        {
+          "title":"Age",
+          "description":"Hobgoblins mature at the same rate as humans and have lifespans similar in length to theirs."
+        },
+        {
+          "title":"Alignment",
+          "description":"Hobgoblin society is built on fidelity to a rigid, unforgiving code of conduct. As such, they tend toward lawful evil."
+        },
+        {
+          "title":"Size",
+          "description":"Hobgoblins are between 5 and 6 feet tall and weigh between 150 and 200 pounds. Your size is Medium."
+        },
+        {
+          "title":"Speed",
+          "description":"Your base walking speed is 30 feet."
+        },
+        {
+          "title":"Darkvision",
+          "description": "You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+        },
+        {
+          "title":"Martial Training",
+          "description":"You are proficient with two martial weapons of your choice and with light armor."
+        },
+        {
+          "title":"Saving Face",
+          "description":"Hobgoblins are careful not to show weakness in front of their allies, for fear of losing status. If you miss with an attack roll or fail an ability check or a saving throw, you can gain a bonus to the roll equal to the number of allies you can see within 30 feet of you (maximum bonus of +5). Once you use this trait, you can't use it again until you finish a short or long rest."
+        },
+        {
+          "title":"Languages",
+          "description":"You can speak, read, and write Common and Goblin."
+        }
+      ]
+    },
+    {
+      "name":"Kobold",
+      "lore":"Racedescription",
+      "subraces":[],
+      "traits":[
+        {
+          "title":"Ability Score Increase",
+          "description":"Your Dexterity score increases by 2, and your Strength score is reduced by 2."
+        },
+        {
+          "title":"Age",
+          "description":"Kobolds reach adulthood at age 6 and can live up to 120 years but rarely do so."
+        },
+        {
+          "title":"Alignment",
+          "description":"Kobolds are fundamentally selfish, making them evil, but their reliance on the strength of their group makes them trend toward law."
+        },
+        {
+          "title":"Size",
+          "description":"Kobolds are between 2 and 3 feet tall and weigh between 25 and 35 pounds. Your size is Small."
+        },
+        {
+          "title":"Speed",
+          "description":"Your base walking speed is 30 feet."
+        },
+        {
+          "title":"Darkvision",
+          "description": "You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+        },
+        {
+          "title":"Grovel, Cower, and Beg",
+          "description":"As an action on your turn, you can cower pathetically to distract nearby foes. Until the end of your next turn, your allies gain advantage on attack rolls against enemies within 10 feet of you that can see you. Once you use this trait, you can't use it again until you finish a short or long rest."
+        },
+        {
+          "title":"Pack Tactics",
+          "description":"You have advantage on an attack roll against a creature if at least one of your allies is within 5 feet of the creature and the ally isn't incapacitated."
+        },
+        {
+          "title":"Sunlight Sensitivity",
+          "description":"You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight."
+        },
+        {
+          "title":"Languages",
+          "description":"You can speak, read, and write Common and Draconic."
+        }
+      ]
+    },
+    {
+      "name":"Orc",
+      "lore":"Racedescription",
+      "subraces":[],
+      "traits":[
+        {
+          "title":"Ability Score Increase",
+          "description":"Your Strength score increases by 2, your Constitution score increases by 1, and your Intelligence score is reduced by 2."
+        },
+        {
+          "title":"Age",
+          "description":"Orcs reach adulthood at age 12 and live up to 50 years."
+        },
+        {
+          "title":"Alignment",
+          "description":"Orcs are vicious raiders, who believe that the world should be theirs. They also respect strength above all else and believe the strong must bully the weak to ensure that weakness does not spread like a disease. They are usually chaotic evil."
+        },
+        {
+          "title":"Size",
+          "description":"Orcs are usually over 6 feet tall and weigh between 230 and 280 pounds. Your size is Medium."
+        },
+        {
+          "title":"Speed",
+          "description":"Your base walking speed is 30 feet."
+        },
+        {
+          "title":"Darkvision",
+          "description": "You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+        },
+        {
+          "title":"Aggressive",
+          "description":"As a bonus action, you can move up to your speed toward an enemy of your choice that you can see or hear. You must end this move closer to the enemy than you started."
+        },
+        {
+          "title":"Menacing",
+          "description":"You are trained in the Intimidation skill."
+        },
+        {
+          "title":"Powerful Build",
+          "description":"You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift."
+        },
+        {
+          "title":"Languages",
+          "description":"You can speak, read, and write Common and Orc."
+        }
+      ]
+    },
+    {
+      "name":"Yuan-ti",
+      "lore":"Racedescription",
+      "subraces":[],
+      "traits":[
+        {
+          "title":"Ability Score Increase",
+          "description":" Your Charisma score increases by 2, and your Intelligence score increases by 1."
+        },
+        {
+          "title":"Age",
+          "description":"Purebloods mature at the same rate as humans and have lifespans similar in length to theirs."
+        },
+        {
+          "title":"Alignment",
+          "description":"Purebloods are devoid of emotion and see others as tools to manipulate. They care little for law or chaos and are typically neutral evil."
+        },
+        {
+          "title":"Size",
+          "description":"Purebloods match humans in average size and weight. Your size is Medium."
+        },
+        {
+          "title":"Speed",
+          "description":"Your base walking speed is 30 feet."
+        },
+        {
+          "title":"Darkvision",
+          "description": "You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+        },
+        {
+          "title":"Innate Spellcasting",
+          "description":"You know the poison spray cantrip. You can cast animal friendship an unlimited number of times with this trait, but you can target only snakes with it. Starting at 3rd level, you can also cast suggestion with this trait. Once you cast it, you can't do so again until you finish a long rest. Charisma is your spellcasting ability for these spells."
+        },
+        {
+          "title":"Magic Resistance",
+          "description":"You have advantage on saving throws against spells and other magical effects."
+        },
+        {
+          "title":"Poison Immunity",
+          "description":"You are immune to poison damage and the poisoned condition."
+        },
+        {
+          "title":"Languages",
+          "description":"You can speak, read, and write Common, Abyssal, and Draconic."
+        }
+      ]
+    }
+  ]
+}

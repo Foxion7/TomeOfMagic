@@ -1,0 +1,415 @@
+<resources>
+    <string name="app_name">Tome of Magic</string>
+    <string name="title_activity_drawer">DrawerActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="classes_array">
+        <item>Barbarian</item>
+        <item>Bard</item>
+        <item>Cleric</item>
+        <item>Druid</item>
+        <item>Fighter</item>
+        <item>Monk</item>
+        <item>Paladin</item>
+        <item>Ranger</item>
+        <item>Rogue</item>
+        <item>Sorcerer</item>
+        <item>Warlock</item>
+        <item>Wizard</item>
+    </string-array>
+
+    <string-array name="races_array">
+        <item>Dragonborn</item>
+        <item>Dwarf</item>
+        <item>Elf</item>
+        <item>Gnome</item>
+        <item>Half-elf</item>
+        <item>Half-orc</item>
+        <item>Halfling</item>
+        <item>Human</item>
+        <item>Tiefling</item>
+        <item>Aarakocra</item>
+        <item>Genasi</item>
+        <item>Goliath</item>
+        <item>Aasimar</item>
+        <item>Firbolg</item>
+        <item>Kenku</item>
+        <item>Lizardfolk</item>
+        <item>Tabaxi</item>
+        <item>Triton</item>
+        <item>Bugbear</item>
+        <item>Hobgoblin</item>
+        <item>Goblin</item>
+        <item>Kobold</item>
+        <item>Orc</item>
+        <item>Yuan-ti</item>
+    </string-array>
+
+    <string-array name="subrace_aasimar_array">
+        <item>Protector Aasimar</item>
+        <item>Scourge Aasimar</item>
+        <item>Fallen Aasimar</item>
+    </string-array>
+
+    <string-array name="subrace_gnome_array">
+        <item>Forest Gnome</item>
+        <item>Rock Gnome</item>
+        <item>Deep Gnome</item>
+    </string-array>
+
+    <string-array name="subrace_dwarf_array">
+        <item>Hill Dwarf</item>
+        <item>Mountain Dwarf</item>
+        <item>Duergar</item>
+    </string-array>
+
+    <string-array name="subrace_elf_array">
+        <item>High Elf</item>
+        <item>Wood Elf</item>
+        <item>Drow</item>
+        <item>Sea Elf</item>
+        <item>Eladrin</item>
+        <item>Shadar-Kai</item>
+    </string-array>
+
+    <string-array name="subrace_halfelf_array">
+        <item>Regular Half-elf</item>
+        <item>Wood elf Heritage</item>
+        <item>High elf Heritage</item>
+        <item>Drow Heritage</item>
+        <item>Aquatic Heritage</item>
+    </string-array>
+
+    <string-array name="woodelf_heritage_array">
+        <item>Weapon Training</item>
+        <item>Fleet of Foot</item>
+        <item>Mask of the Wild</item>
+    </string-array>
+
+    <string-array name="highelf_heritage_array">
+        <item>Weapon Training</item>
+        <item>Cantrip</item>
+    </string-array>
+
+    <string-array name="subrace_halfling_array">
+        <item>Lightfoot Halfling</item>
+        <item>Stout Halfling</item>
+        <item>Ghostwise Halfling</item>
+    </string-array>
+
+    <string-array name="subrace_genasi_array">
+        <item>Air Genasi</item>
+        <item>Earth Genasi</item>
+        <item>Fire Genasi</item>
+        <item>Water Genasi</item>
+    </string-array>
+
+    <string-array name="subrace_human_array">
+        <item>Regular Human</item>
+        <item>Variant Human</item>
+    </string-array>
+
+    <string-array name="subrace_tiefling_array">
+        <item>Regular Tiefling</item>
+        <item>Feral Tiefling</item>
+        <item>Asmodeus</item>
+        <item>Baalzebul</item>
+        <item>Dispater</item>
+        <item>Fierna</item>
+        <item>Glasya</item>
+        <item>Levistus</item>
+        <item>Mammon</item>
+        <item>Mephistopheles</item>
+        <item>Zariel</item>
+    </string-array>
+
+    <string-array name="subrace_variant_tiefling_array">
+        <item>Standard</item>
+        <item>Devil\'s Tongue</item>
+        <item>Hellfire</item>
+        <item>Winged</item>
+    </string-array>
+
+    <string-array name="subrace_gith_array">
+        <item>Githyanki</item>
+        <item>Githzerai</item>
+    </string-array>
+
+    <string-array name="dragonborn_ancestry_array">
+        <item>Black</item>
+        <item>Blue</item>
+        <item>Brass</item>
+        <item>Bronze</item>
+        <item>Copper</item>
+        <item>Gold</item>
+        <item>Green</item>
+        <item>Red</item>
+        <item>Silver</item>
+        <item>White</item>
+    </string-array>
+
+    <string-array name="spellbook_classes_array">
+        <item>All classes</item>
+        <item>Bard</item>
+        <item>Cleric</item>
+        <item>Druid</item>
+        <item>Paladin</item>
+        <item>Ranger</item>
+        <item>Sorcerer</item>
+        <item>Warlock</item>
+        <item>Wizard</item>
+    </string-array>
+
+    <string-array name="levels_array">
+        <item>All levels</item>
+        <item>Cantrip</item>
+        <item>1st level</item>
+        <item>2nd level</item>
+        <item>3rd level</item>
+        <item>4th level</item>
+        <item>5th level</item>
+        <item>6th level</item>
+        <item>7th level</item>
+        <item>8th level</item>
+        <item>9th level</item>
+    </string-array>
+
+    <string-array name="schools_array">
+        <item>Abjuration</item>
+        <item>Conjuration</item>
+        <item>Divination</item>
+        <item>Enchantment</item>
+        <item>Evocation</item>
+        <item>Illusion</item>
+        <item>Necromancy</item>
+        <item>Transmutation</item>
+    </string-array>
+
+    <string-array name="sources_array_short">
+        <item>PHB</item>
+        <item>DMG</item>
+        <item>MM</item>
+        <item>EE</item>
+        <item>SCAG</item>
+        <item>VgtM</item>
+        <item>XGtE</item>
+        <!--<item>MToF</item>-->
+    </string-array>
+
+    <string-array name="sources_array_long">
+        <item>Player\'s Handbook</item>
+        <item>Dungeon Master\'s Guide</item>
+        <item>Monster Manual</item>
+        <item>Elemental Evil</item>
+        <item>Sword Coast Adventurer\'s Guide</item>
+        <item>Volo\'s Guide to Monsters</item>
+        <item>Xanathar\'s Guide to Everything</item>
+        <!--<item>Mordenkainen\'s Tome of Foes</item>-->
+    </string-array>
+
+    <string-array name="casting_time_array">
+        <item>Any</item>
+        <item>1 action</item>
+        <item>1 bonus action</item>
+        <item>1 hour</item>
+        <item>1 minute</item>
+        <item>1 reaction</item>
+    </string-array>
+
+    <string-array name="range_array">
+        <item>Any</item>
+        <item>None</item>
+        <item>Self</item>
+        <item>Sight</item>
+        <item>Special</item>
+        <item>Touch</item>
+        <item>Unlimited</item>
+    </string-array>
+
+    <string-array name="duration_array">
+        <item>Any</item>
+        <item>1 round</item>
+        <item>1 minute</item>
+        <item>10 minutes</item>
+        <item>1 hour</item>
+        <item>8 hours</item>
+        <item>24 hours</item>
+        <item>Instantaneous</item>
+        <item>Special</item>
+        <item>Until dispelled</item>
+        <item>Until dispelled or triggered</item>
+    </string-array>
+
+    <string-array name="standardarray_array">
+        <item>15</item>
+        <item>14</item>
+        <item>13</item>
+        <item>12</item>
+        <item>10</item>
+        <item>8</item>
+    </string-array>
+
+    <string-array name="abilities_array">
+        <item>Strength</item>
+        <item>Dexterity</item>
+        <item>Constitution</item>
+        <item>Intelligence</item>
+        <item>Wisdom</item>
+        <item>Charisma</item>
+    </string-array>
+
+    <string-array name="subclass_barbarian_array">
+        <item>Berserker</item>
+        <item>Totem Warrior</item>
+        <item>Battlerager</item>
+        <item>Ancestral Guardian</item>
+        <item>Storm Herald</item>
+        <item>Zealot</item>
+    </string-array>
+
+    <string-array name="subclass_bard_array">
+        <item>Lore</item>
+        <item>Valor</item>
+        <item>Glamour</item>
+        <item>Swords</item>
+        <item>Whispers</item>
+    </string-array>
+
+    <string-array name="subclass_cleric_array">
+        <item>Knowledge</item>
+        <item>Life</item>
+        <item>Light</item>
+        <item>Nature</item>
+        <item>Tempest</item>
+        <item>Trickery</item>
+        <item>War</item>
+        <item>Arcana</item>
+        <item>Forge</item>
+        <item>Grave</item>
+        <item>Death</item>
+    </string-array>
+
+    <string-array name="subclass_druid_array">
+        <item>Land</item>
+        <item>Moon</item>
+        <item>Dreams</item>
+        <item>Shepherd</item>
+    </string-array>
+
+    <string-array name="subclass_fighter_array">
+        <item>Champion</item>
+        <item>Battle Master</item>
+        <item>Eldritch Knight</item>
+        <item>Banneret</item>
+        <item>Arcane Archer</item>
+        <item>Cavalier</item>
+        <item>Samurai</item>
+    </string-array>
+
+    <string-array name="subclass_monk_array">
+        <item>Open Hand</item>
+        <item>Shadow</item>
+        <item>Four Elements</item>
+        <item>Long Death</item>
+        <item>Sun Soul</item>
+        <item>Drunken Master</item>
+        <item>Kensei</item>
+    </string-array>
+
+    <string-array name="subclass_paladin_array">
+        <item>Devotion</item>
+        <item>Ancients</item>
+        <item>Vengeance</item>
+        <item>Crown</item>
+        <item>Conquest</item>
+        <item>Redemption</item>
+        <item>Oathbreaker</item>
+    </string-array>
+
+    <string-array name="subclass_ranger_array">
+        <item>Hunter</item>
+        <item>Beast Master</item>
+        <item>Gloom Stalker</item>
+        <item>Horizon Walker</item>
+        <item>Monster Slayer</item>
+    </string-array>
+
+    <string-array name="subclass_rogue_array">
+        <item>Assassin</item>
+        <item>Thief</item>
+        <item>Arcane Trickster</item>
+        <item>Mastermind</item>
+        <item>Swashbuckler</item>
+        <item>Inquisitive</item>
+        <item>Scout</item>
+    </string-array>
+
+    <string-array name="subclass_sorcerer_array">
+        <item>Draconic</item>
+        <item>Wild magic</item>
+        <item>Storm</item>
+        <item>Divine Soul</item>
+        <item>Shadow Magic</item>
+    </string-array>
+
+    <string-array name="subclass_warlock_array">
+        <item>Archfey</item>
+        <item>Fiend</item>
+        <item>Great Old One</item>
+        <item>Undying</item>
+        <item>Celestial</item>
+        <item>Hexblade</item>
+    </string-array>
+
+    <string-array name="subclass_wizard_array">
+        <item>Abjuration</item>
+        <item>Conjuration</item>
+        <item>Divination</item>
+        <item>Enchanment</item>
+        <item>Evocation</item>
+        <item>Illusion</item>
+        <item>Necromancy</item>
+        <item>Transmutation</item>
+        <item>Bladesinger</item>
+        <item>War magic</item>
+    </string-array>
+
+    <string-array name="background_array">
+        <item>Acolyte</item>
+        <item>Charlatan</item>
+        <item>City Watch</item>
+        <item>Clan Crafter</item>
+        <item>Cloistered Scolar</item>
+        <item>Courtier</item>
+        <item>Criminal</item>
+        <item>Entertainer</item>
+        <item>Faction Agent</item>
+        <item>Far Traveler</item>
+        <item>Folk Hero</item>
+        <item>Gladiator</item>
+        <item>Guild Artisan</item>
+        <item>Guild Merchant</item>
+        <item>Haunted One</item>
+        <item>Hermit</item>
+        <item>Inheritor</item>
+        <item>Investigator</item>
+        <item>Knight</item>
+        <item>Knight of the Order</item>
+        <item>Mercenary Veteran</item>
+        <item>Noble</item>
+        <item>Outlander</item>
+        <item>Sage</item>
+        <item>Sailor</item>
+        <item>Soldier</item>
+        <item>Urban Bounty Hunter</item>
+        <item>Tribe Member</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
