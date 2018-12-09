@@ -3,10 +3,105 @@
     {
       "name": "Barbarian",
       "description": "description",
-      "traits": [
+      "hitdie": 12,
+      "resource": {
+        "name": "rage",
+        "amount": 2,
+        "size": 2
+      },
+      "classfeatures": [
         {
-          "name": "Hit Dice",
-          "description": "1d12"
+          "name": "Rage",
+          "description": "",
+          "level": 1
+        },{
+          "name": "Unarmored Defense",
+          "description": "",
+          "level": 1
+        },{
+          "name": "Reckless Attack",
+          "description": "",
+          "level": 2
+        },{
+          "name": "Danger Sense",
+          "description": "",
+          "level": 2
+        },{
+          "name": "Primal Path",
+          "description": "",
+          "level": 3
+        },{
+          "name": "Ability Score Improvement",
+          "description": "",
+          "level": 4
+        },{
+          "name": "Extra Attack",
+          "description": "",
+          "level": 5
+        },{
+          "name": "Fast Movement",
+          "description": "",
+          "level": 5
+        },{
+          "name": "Path feature",
+          "description": "",
+          "level": 6
+        },{
+          "name": "Feral Instinct",
+          "description": "",
+          "level": 7
+        },{
+          "name": "Ability Score Improvement",
+          "description": "",
+          "level": 7
+        },{
+          "name": "Brutal Critical(1x)",
+          "description": "",
+          "level": 7
+        },{
+          "name": "Path feature",
+          "description": "",
+          "level": 7
+        },{
+          "name": "Relentless",
+          "description": "",
+          "level": 7
+        },{
+          "name": "Ability Score Improvement",
+          "description": "",
+          "level": 7
+        },{
+          "name": "Brutal Critical(2x)",
+          "description": "",
+          "level": 7
+        },{
+          "name": "Path feature",
+          "description": "",
+          "level": 7
+        },{
+          "name": "Persistent Rage",
+          "description": "",
+          "level": 7
+        },{
+          "name": "Ability Score Improvement",
+          "description": "",
+          "level": 7
+        },{
+          "name": "Brutal Critical(3x)",
+          "description": "",
+          "level": 7
+        },{
+          "name": "Indomitable Might",
+          "description": "",
+          "level": 7
+        },{
+          "name": "Ability Score Improvement",
+          "description": "",
+          "level": 7
+        },{
+          "name": "Primal Champion",
+          "description": "",
+          "level": 7
         }
       ],
       "proficiencies":[
@@ -57,6 +152,171 @@
         { "name": "Simple weapon"},
         { "name": "Explorer\'s pack"},
         { "name": "Javelin(4x)"}
+      ],
+      "subclasses":[
+      ]
+    },
+    {
+      "name": "Bard",
+      "description": "description",
+      "hitdie": 0,
+      "resource": {
+      },
+      "classfeatures": [
+      ],
+      "proficiencies":[
+      ],
+      "Equipment":[
+      ],
+      "subclasses":[
+      ]
+    },
+    {
+      "name": "Cleric",
+      "description": "description",
+      "hitdie": 0,
+      "resource": {
+      },
+      "classfeatures": [
+      ],
+      "proficiencies":[
+      ],
+      "Equipment":[
+      ],
+      "subclasses":[
+      ]
+    },
+    {
+      "name": "Druid",
+      "description": "description",
+      "hitdie": 0,
+      "resource": {
+      },
+      "classfeatures": [
+      ],
+      "proficiencies":[
+      ],
+      "Equipment":[
+      ],
+      "subclasses":[
+      ]
+    },
+    {
+      "name": "Fighter",
+      "description": "description",
+      "hitdie": 0,
+      "resource": {
+      },
+      "classfeatures": [
+      ],
+      "proficiencies":[
+      ],
+      "Equipment":[
+      ],
+      "subclasses":[
+      ]
+    },
+    {
+      "name": "Monk",
+      "description": "description",
+      "hitdie": 0,
+      "resource": {
+      },
+      "classfeatures": [
+      ],
+      "proficiencies":[
+      ],
+      "Equipment":[
+      ],
+      "subclasses":[
+      ]
+    },
+    {
+      "name": "Paladin",
+      "description": "description",
+      "hitdie": 0,
+      "resource": {
+      },
+      "classfeatures": [
+      ],
+      "proficiencies":[
+      ],
+      "Equipment":[
+      ],
+      "subclasses":[
+      ]
+    },
+    {
+      "name": "Ranger",
+      "description": "description",
+      "hitdie": 0,
+      "resource": {
+      },
+      "classfeatures": [
+      ],
+      "proficiencies":[
+      ],
+      "Equipment":[
+      ],
+      "subclasses":[
+      ]
+    },
+    {
+      "name": "Rogue",
+      "description": "description",
+      "hitdie": 0,
+      "resource": {
+      },
+      "classfeatures": [
+      ],
+      "proficiencies":[
+      ],
+      "Equipment":[
+      ],
+      "subclasses":[
+      ]
+    },
+    {
+      "name": "Sorcerer",
+      "description": "description",
+      "hitdie": 0,
+      "resource": {
+      },
+      "classfeatures": [
+      ],
+      "proficiencies":[
+      ],
+      "Equipment":[
+      ],
+      "subclasses":[
+      ]
+    },
+    {
+      "name": "Warlock",
+      "description": "description",
+      "hitdie": 0,
+      "resource": {
+      },
+      "classfeatures": [
+      ],
+      "proficiencies":[
+      ],
+      "Equipment":[
+      ],
+      "subclasses":[
+      ]
+    },
+    {
+      "name": "Wizard",
+      "description": "description",
+      "hitdie": 0,
+      "resource": {
+      },
+      "classfeatures": [
+      ],
+      "proficiencies":[
+      ],
+      "Equipment":[
       ],
       "subclasses":[
       ]

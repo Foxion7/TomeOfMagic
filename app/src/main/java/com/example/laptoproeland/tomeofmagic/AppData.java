@@ -4,6 +4,7 @@ import android.app.Application;
 import android.content.SharedPreferences;
 import android.util.Log;
 
+import com.example.laptoproeland.tomeofmagic.Characters.Class;
 import com.example.laptoproeland.tomeofmagic.Characters.Properties.Background;
 import com.example.laptoproeland.tomeofmagic.Characters.Properties.Race;
 import com.example.laptoproeland.tomeofmagic.Characters.Properties.Talent;
@@ -16,6 +17,7 @@ public class AppData extends Application {
     private static ArrayList<Spell> spells = new ArrayList<>();
     private static ArrayList<Character> characters = new ArrayList<>();
     private static ArrayList<Race> races = new ArrayList<>();
+    private static ArrayList<Class> classes = new ArrayList<>();
     private static ArrayList<Background> backgrounds = new ArrayList<>();
     private static ArrayList<Talent> talents = new ArrayList<>();
 
@@ -240,6 +242,30 @@ public class AppData extends Application {
                 if(name.equals(talent.getName()) && talent.getType() == type){
                     return talent;
                 }
+            }
+        }
+        return null;
+    }
+
+    public static void setClasses(ArrayList<Class> classes) {
+        AppData.classes = classes;
+    }
+
+    public static Class getClass(String name) {
+        if(classes != null){
+            for(Class currentClass : classes){
+                if(name.equals(currentClass.getName())){
+                    return currentClass;
+                }
+//                else {
+//                    if(currentClass.getSubraces() != null) {
+//                        for (Race subrace : currentClass.getSubraces()) {
+//                            if (name.equals(subrace.getName())) {
+//                                return subrace;
+//                            }
+//                        }
+//                    }
+//                }
             }
         }
         return null;

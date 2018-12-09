@@ -36,10 +36,9 @@ public class CharactersActivity extends DrawerActivity {
     private ArrayList <Character> characters;
     private CharacterAdapter adapter;
     private ArrayList<Race> races  = new ArrayList<>();
+    private ArrayList<Class> classes  = new ArrayList<>();
     private ArrayList<Talent> talents = new ArrayList<>();
     private ArrayList<Background> backgrounds = new ArrayList<>();
-
-    FragmentManager fm = getSupportFragmentManager();
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -61,6 +60,7 @@ public class CharactersActivity extends DrawerActivity {
         characters = new ArrayList<>();
 
         LoadRaces();
+        LoadClasses();
         LoadTalents();
         LoadBackgrounds();
 
@@ -122,7 +122,6 @@ public class CharactersActivity extends DrawerActivity {
     }
 
     public void LoadRaces(){
-
         String raceDataJson = loadJSONFromAsset(this, "RaceData.json");
         try {
             AddJSONDataToRaces(raceDataJson);
@@ -134,7 +133,6 @@ public class CharactersActivity extends DrawerActivity {
     }
 
     public void LoadTalents() {
-
         String talentDataJson = loadJSONFromAsset(this, "TalentData.json");
         try {
             AddJSONDataToTalents(talentDataJson);
@@ -146,7 +144,6 @@ public class CharactersActivity extends DrawerActivity {
     }
 
     public void LoadBackgrounds(){
-
         String backgroundDataJson = loadJSONFromAsset(this, "BackgroundData.json");
         try {
             AddJSONDataToBackgrounds(backgroundDataJson);
@@ -154,6 +151,16 @@ public class CharactersActivity extends DrawerActivity {
             e.printStackTrace();
         }
         AppData.setBackgrounds(backgrounds);
+    }
+
+    public void LoadClasses(){
+        String classDataJson = loadJSONFromAsset(this, "ClassData.json");
+        try {
+            AddJSONDataToClasses(classDataJson);
+        } catch (JSONException e) {
+            e.printStackTrace();
+        }
+        AppData.setClasses(classes);
     }
 
     // Retrieves data from json
@@ -189,6 +196,23 @@ public class CharactersActivity extends DrawerActivity {
             Gson gson = new Gson();
             Race race = gson.fromJson(mJson, Race.class);
             races.add(race);
+        }
+    }
+
+    public void AddJSONDataToClasses(String jstring) throws JSONException {
+
+        JSONObject object = new JSONObject(jstring);
+        JSONArray jArray  = object.getJSONArray("classes");
+
+        for (int i = 0; i < jArray.length(); i++)
+        {
+            JSONObject jsonObject = jArray.getJSONObject(i);
+            JsonParser parser = new JsonParser();
+            JsonElement mJson =  parser.parse(String.valueOf(jsonObject));
+
+            Gson gson = new Gson();
+            Class newClass = gson.fromJson(mJson, Class.class);
+            classes.add(newClass);
         }
     }
 

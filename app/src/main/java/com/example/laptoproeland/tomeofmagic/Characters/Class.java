@@ -9,6 +9,8 @@ import java.io.Serializable;
 public class Class implements Serializable{
 
     private String name;
+    private String description;
+    private int hitdie;
     private String subclass;
     private int level;
 
